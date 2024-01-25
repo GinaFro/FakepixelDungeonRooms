@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "io/github/quantizr/mixins/MixinNetworkManager": {
+      "channelRead0": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+    }
+  },
+  "data": {
+    "notch": {
+      "io/github/quantizr/mixins/MixinNetworkManager": {
+        "channelRead0": "Lek;a(Lio/netty/channel/ChannelHandlerContext;Lff;)V"
+      }
+    },
+    "searge": {
+      "io/github/quantizr/mixins/MixinNetworkManager": {
+        "channelRead0": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+      }
+    }
+  }
+}

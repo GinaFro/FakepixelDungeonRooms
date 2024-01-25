@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+FMLCorePlugin: io.github.quantizr.asm.FMLLoadingPlugin
+FMLCorePluginContainsFMLMod: true
+ForceLoadAsMod: true
+MixinConfigs: mixins.dungeonrooms.json
+ModSide: CLIENT
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+TweakOrder: 0
+

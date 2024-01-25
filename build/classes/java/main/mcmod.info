@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FDR",
+  "name": "FakepixelDungeonRooms ",
+  "description": "Added minimap overlay! ",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "https://discord.gg/fakepixel",
+  "updateUrl": "",
+  "authorList": ["Hamza,BrokenHearts"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
