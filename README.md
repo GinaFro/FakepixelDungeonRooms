@@ -31,7 +31,7 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 
 
 ### Discord:
-[![Discord](https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/tNmwvuP8T5)
+[![Discord](https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/GeQY6kwz7S)
 
 
 ### Hotkeys:
