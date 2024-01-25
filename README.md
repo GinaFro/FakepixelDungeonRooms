@@ -10,7 +10,7 @@
   <a href="https://github.com/GinaFro/FakepixelDungeonRooms/releases/tag/2.1.0" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/GinaFro/FakepixelDungeonRooms/total?color=%239f00ff&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/tNmwvuP8T5" target="_blank">
+  <a href="https://discord.gg/GeQY6kwz7S" target="_blank">
     <img alt="discord" src="https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge" />
   </a>
 </p>
