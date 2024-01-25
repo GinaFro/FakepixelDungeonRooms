@@ -11,7 +11,7 @@
     <img alt="downloads" src="https://img.shields.io/github/downloads/GinaFro/FakepixelDungeonRooms/total?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/GeQY6kwz7S" target="_blank">
-    <img alt="discord" src="https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge" />
+    <img alt="discord" src="https://img.shields.io/discord/1059436679942897674?color=%239f00ff&label=Discord&style=for-the-badge" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 
 
 ### Discord:
-[![Discord](https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/GeQY6kwz7S)
+[![Discord](https://img.shields.io/discord/1059436679942897674?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/GeQY6kwz7S)
 
 
 ### Hotkeys:
