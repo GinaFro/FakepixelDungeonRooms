@@ -38,14 +38,10 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 (Configurable in Controls Menu)
  - P - Opens Secret Waypoints configuration GUI
  - O - Opens images of secret locations (beta)
- - /FDR - Open gui for controlling puzzles and terminal solver
  
 ### Commands:
  - /room help - Show command list
- - /FDR help - Show command list
  
 ### Credits:
-Big thanks to the respective authors of Danker's Skyblock Mod and DungeonRooms for various pieces of code used in this mod.
-Thanks to Hamza for various bug/performance fixes.
-
-Also, thanks to the Room Contributors in the Discord, especially BrokenHearts and Hamza, for submitting rooms.
+This Mod Uses Code From DungeonRooms Mod & DSM
+Credit to their RightFul Creators!
