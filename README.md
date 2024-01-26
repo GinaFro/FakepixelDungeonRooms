@@ -1,13 +1,13 @@
 # FakepixelDungeonRooms Mod
 
 <p align="center">
-  <a href="https://github.com/GinaFro/FakepixelDungeonRooms/releases/tag/2.1.0" target="_blank">
+  <a href="https://github.com/GinaFro/FakepixelDungeonRooms/releases/tag/1.0" target="_blank">
     <img alt="version" src="https://img.shields.io/github/v/release/GinaFro/FakepixelDungeonRooms?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
   </a>
-  <a href="https://github.com/GinaFro/FakepixelDungeonRooms/releases/tag/2.1.0" target="_blank">
+  <a href="https://github.com/GinaFro/FakepixelDungeonRooms/releases/tag/1.0" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/GinaFro/FakepixelDungeonRooms/total?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/GeQY6kwz7S" target="_blank">
